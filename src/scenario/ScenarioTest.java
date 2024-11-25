@@ -1,5 +1,7 @@
 package scenario;
 
+import produit.Poisson;
+import produit.Sanglier;
 import villageGaulois.Etal;
 import villageGaulois.IEtal;
 
